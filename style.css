@@ -46,6 +46,10 @@ body {
   border-top: 2px dashed #e4cef2;
 }
 
+.centered {
+  text-align: center;
+}
+
 @media screen and (max-width: 768px) {
   .message::before,
   .message::after {
